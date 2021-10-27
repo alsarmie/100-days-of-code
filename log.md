@@ -3,7 +3,7 @@
 
 ### Day 0: Onsdag 27, 2021
 
-**Today's Progress**: Starting the challenge. Setting up GitHub repo and Twitter integration.
+**Today's Progress**: Starting the challenge. Setting up forked GitHub repo and Twitter integration.
 
 **Thoughts:** My aim is to improve my programming skills in C++ to be a better Robotics Engineer/developer. My ultimate goal is to be proficient in C++ for Computer Vision.
 
