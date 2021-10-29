@@ -21,3 +21,12 @@
 **Thoughts:** My aim is to improve my programming skills in C++ to be a better Robotics Engineer/developer. My ultimate goal is to be proficient in C++ for Computer Vision.
 
 **Link to work:**  *To be added*
+
+### Day 2: Fredag 29, 2021
+
+**Today's Progress**:
+1 Hard Hacker Rank Practice problems for C++ .
+
+**Thoughts:** My aim is to improve my programming skills in C++ to be a better Robotics Engineer/developer. My ultimate goal is to be proficient in C++ for Computer Vision.
+
+**Link to work:**  *To be added*
